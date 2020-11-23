@@ -1,0 +1,33 @@
+body {
+    background-image: url(erdo.jpg);
+    background-size: cover;
+}
+.h1{
+    color: darkgreen;
+}
+.h2{
+    color: darkgreen;
+}
+.h3{
+    color: darkgreen;
+}
+.tablazat {
+    color: darkgreen;
+    text-align: center;
+    width:50%; 
+    margin-left: 25%;
+    margin-right: 15%;
+}
+.szoveg{
+    color: darkgreen;
+    text-align: left;
+    font-size: 20px;
+    border-spacing: 5%;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+.kepek{
+    padding-left: 14%;
+    padding-right: 14%;
+    border-spacing: 5%;
+}
